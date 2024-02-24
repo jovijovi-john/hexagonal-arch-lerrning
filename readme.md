@@ -1,6 +1,6 @@
 # Backend - Hexagonal Arch
 
-Repositório criado com base nas aulas do curso de Clean Architecture da Cod3r. O projeto está divido nos seguintes componentes:
+Repositório criado com base nas aulas do curso de Clean Architecture da Cod3r. O projeto está divido da seguinte forma:
 
 ## 1. Core
 
